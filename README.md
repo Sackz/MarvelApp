@@ -9,7 +9,7 @@ En la home como en la pantalla de detalle se utiliza viewBinding para el tratami
 
 La home tiene un paginado infinito por lo que se podrán ver todos los personajes existentes.
 
-La pantalla de filtros la planteé de la misma manera pero finalmente decidí dejar una sola descarga de información para no sobre cargar de llamadas esa pantalla
+La pantalla de filtros la planteé de la misma manera pero finalmente decidí dejar una sola descarga de información para no sobre cargar de llamadas esa pantalla.
 
 ## Añadidos 
 
